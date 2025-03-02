@@ -1,0 +1,52 @@
+*{
+  font-family: 'Quicksand', sans-serif;
+  }
+
+.discussionHtml{
+  background-image: url("https://media.istockphoto.com/photos/abstract-urban-landscape-background-bokeh-picture-id1343831503?b=1&k=20&m=1343831503&s=170667a&w=0&h=7-TzF0cVH2t2U0IfsWo7LCG1ymNdHMs3wTbCYvE1L6k=");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  height: 100vh;  
+}
+
+.talk-container{
+    height: 100vh;
+    background-color: #d4e5a9;
+    margin: 50px 50px 0px 50px;
+    border: 10px solid rgb(191, 253, 98);
+    border-radius: 20px;
+
+}
+
+.the-talk-banner{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+.talk-banner-title{
+    background-color: rgb(169, 239, 149);
+    border-radius: 9px;
+    box-shadow: 1px 1px 1px 1px  black;
+    margin: 20px
+}
+
+.the-banner-text{
+    margin: 18px;
+    font-family: 'Quicksand', sans-serif;
+  
+}
+
+.sharing-space-js{
+    margin: 10px;
+    border-radius: 25px;
+    background-color: rgb(177, 218, 114);
+}
+
+.message-container{
+    margin: 20px;
+}
+
+
+

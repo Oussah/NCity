@@ -1,0 +1,188 @@
+
+*{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+}
+
+body{
+    background-image: url("https://media.istockphoto.com/photos/abstract-urban-landscape-background-bokeh-picture-id1343831503?b=1&k=20&m=1343831503&s=170667a&w=0&h=7-TzF0cVH2t2U0IfsWo7LCG1ymNdHMs3wTbCYvE1L6k=");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+
+/*  target1   */
+.target1AndSolution{
+    height: 100vh;
+    margin: 80px 50px 50px 50px;
+}
+
+.logoAndDetails1{
+    display: flex;
+    align-items: center;
+}
+
+.target1Logo-detail{
+    border-radius: 15px;
+    box-shadow: 10px 10px grey;
+}
+
+.target1Title-detail{
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.target1FullDetail{
+    margin-left: 80px;
+}
+
+
+.solutionTarget1{
+    margin-top: 30px;
+}
+
+.solution1{
+    font-size: 25px;
+}
+
+
+/*  target2   */
+.target2AndSolution{
+    height: 100vh;
+    margin: 80px 50px 50px 50px;
+}
+
+.logoAndDetails2{
+    display: flex;
+    align-items: center;
+}
+
+.target2Logo-detail{
+    border-radius: 15px;
+    box-shadow: 10px 10px grey;
+}
+
+.target2Title-detail{
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.target2FullDetail{
+    margin-left: 80px;
+}
+
+
+.solutionTarget2{
+    margin-top: 30px;
+}
+
+.solution2{
+    font-size: 25px;
+}
+.moving-bar{
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+/*  target3   */
+.target3AndSolution{
+    height: 100vh;
+    margin: 80px 50px 50px 50px;
+  
+}
+
+.logoAndDetails3{
+    display: flex;
+    align-items: center;
+}
+
+.target3Logo-detail{
+    border-radius: 15px;
+    box-shadow: 10px 10px grey;
+}
+
+.target3Title-detail{
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.target3FullDetail{
+    margin-left: 80px;
+}
+
+
+.solutionTarget3{
+    margin-top: 30px;
+}
+
+.solution3{
+    font-size: 25px;
+}
+
+
+
+a{
+  margin-top: 30px;
+  
+}
+
+.next1-btn{
+  font-family: 'Quicksand', sans-serif;
+  background-color: #FCFFE7;
+  padding: 5px 10px 5px 10px;
+  border-radius: 30px;
+  float: right;
+  border-color: black;
+}
+
+.next1-btn:hover{
+  background-color: #FCFFE7;
+  opacity: .5;
+  
+}
+
+.next2-btn{
+  font-family: 'Quicksand', sans-serif;
+  background-color: #FCFFE7;
+  padding: 5px 10px 5px 10px;
+  border-radius: 30px;
+  border: 5px
+}
+
+.next2-btn:hover{
+  background-color: #FCFFE7;
+  opacity: .5;
+  
+}
+
+.back1-btn{
+  font-family: 'Quicksand', sans-serif;
+  background-color: #FCFFE7;
+  padding: 5px 10px 5px 10px;
+  border-radius: 30px;
+}
+
+.back1-btn:hover{
+  background-color: #FCFFE7;
+  opacity: .5;
+  
+}
+
+.back2-btn{
+  font-family: 'Quicksand', sans-serif;
+  background-color: #FCFFE7;
+  padding: 5px 10px 5px 10px;
+  border-radius: 30px;
+  margin-top: 30px;
+}
+
+.back2-btn:hover{
+  background-color: #FCFFE7;
+  opacity: .5;
+  
+}
+
+

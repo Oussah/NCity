@@ -1,0 +1,55 @@
+
+
+.main-page-content{
+    background-image: url("https://media.istockphoto.com/photos/abstract-urban-landscape-background-bokeh-picture-id1343831503?b=1&k=20&m=1343831503&s=170667a&w=0&h=7-TzF0cVH2t2U0IfsWo7LCG1ymNdHMs3wTbCYvE1L6k=");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 100vh;
+    position: relative;
+
+}
+
+.sdg-logo{
+    width: 400px;
+    position: absolute;
+    right: 16%;
+    bottom: 38%;
+    z-index: 1;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px  grey;
+    
+}
+
+
+.main-page-title{
+    display: inline;
+    position: absolute;
+    top: 20%;
+    left: 13%;
+    font-size: 68px;
+    z-index: 2;
+}
+
+.title{
+    font-family: 'Francois One', sans-serif;
+    text-align: center;
+    color: #303030;
+    
+}
+
+.small-text-main-page{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 47px;
+    position: absolute;
+    left: -10%;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+
+
+
+
+

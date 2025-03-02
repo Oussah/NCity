@@ -1,0 +1,64 @@
+.overview-page_page2{
+    height: 100vh;
+}
+
+.overview-page_page2{
+    background-image: url("https://media.istockphoto.com/photos/abstract-urban-landscape-background-bokeh-picture-id1343831503?b=1&k=20&m=1343831503&s=170667a&w=0&h=7-TzF0cVH2t2U0IfsWo7LCG1ymNdHMs3wTbCYvE1L6k=");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 100vh;
+    border: 1px solid black;
+    display: flex;
+}
+
+.overview-container{
+    height: 60vh;
+    width: 90%;
+    align-self: center;
+    margin: 80px;
+}
+
+.overview-content{
+  height: 60vh;
+  width: 86%;
+  background-color: grey;
+  opacity: .5;
+  align-self: center;
+  position: absolute;
+  top: 960px;
+  left: 130px;
+  z-index: 1;
+  border-radius: 15px;
+  
+}
+
+.overview-smaller-container{
+  position: relative;
+  z-index: 2;
+}
+
+.left-side{
+    align-content: center;
+}
+
+.logo-overview{
+    width: 250px;
+    margin: 90px;
+    display: inline;
+    position: absolute;
+    left: 50px;
+}
+
+.right-side{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
+    margin: 6px;
+    width: 860px;
+    margin: 90px;
+    position: absolute;
+    left: 350px;
+
+}
+
+
